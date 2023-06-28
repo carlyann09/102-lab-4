@@ -1,0 +1,61 @@
+body {
+    background-color: aliceblue;
+    margin:
+        padding: font-family:
+}
+
+header {
+    background-color: ;
+    height: ;
+
+}
+
+h1 {
+    float: ;
+    margin-left: ;
+    margin-right: ;
+    color: ;
+    text-shadow: ;
+    font-size: ;
+
+}
+
+nav li {
+    display: inline;
+    margin-left: ;
+
+}
+
+nav li a {
+    color: ;
+    font-size: ;
+    text-decoration: ;
+    cursor: pointer;
+
+}
+
+nav li a:hover {
+    color: ;
+    text-decoration: ;
+    font-size: ;
+
+}
+
+main p {
+    font-size: ;
+    margin-top: ;
+
+}
+
+footer {
+    margin-top: ;
+    text-align: ;
+    background-color: ;
+    height: ;
+}
+
+footer p {
+    padding: ;
+    border: ;
+
+}
