@@ -24,34 +24,29 @@ h1 {
 
 nav li {
     display: inline;
-    margin-left:220px ;
+    margin-left:210px ;
 
 }
 
 nav li a {
     color: #DBD6D0;
-    font-size: ;
+    font-size: 20px ;
     text-decoration: none ;
     cursor: pointer;
 
 }
 
 nav li a:hover {
-    color: ;
-    text-decoration: ;
-    font-size: ;
+   
 
 }
 
 main p {
-    font-size: ;
-    margin-top: ;
-
+ 
 }
 
 footer {
-    margin-top: ;
-    text-align: ;
+  
     background-color: #A3968E ;
     height: 100px;
 }
@@ -65,5 +60,12 @@ footer p {
 
 .flex-container {
     display: flex;
+    justify-content: space-between;
     background-color: DodgerBlue;
+
+  }
+
+  img {
+    height: 300px;
+    width: 300px;
   }
