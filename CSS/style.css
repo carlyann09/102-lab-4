@@ -1,35 +1,36 @@
 body {
-    background-color: aliceblue;
+    background-color: #F0E1D8;
     margin:
         padding: font-family:
 }
 
 header {
-    background-color: ;
-    height: ;
+    background-color: #A3968E ;
+
+    height: 100px;
 
 }
 
 h1 {
-    float: ;
-    margin-left: ;
-    margin-right: ;
-    color: ;
-    text-shadow: ;
-    font-size: ;
+   
+    margin-left: 500px;
+
+    color: #F0DBD8 ;
+  
+    font-size: 30px ;
 
 }
 
 nav li {
     display: inline;
-    margin-left: ;
+    margin-left:220px ;
 
 }
 
 nav li a {
-    color: ;
+    color: #DBD6D0;
     font-size: ;
-    text-decoration: ;
+    text-decoration: none ;
     cursor: pointer;
 
 }
@@ -50,12 +51,13 @@ main p {
 footer {
     margin-top: ;
     text-align: ;
-    background-color: ;
-    height: ;
+    background-color: #A3968E ;
+    height: 100px;
 }
 
 footer p {
-    padding: ;
-    border: ;
+    margin-left: 540px;
+    color:#F0E1D8 ;
+    text-decoration: none;
 
 }
