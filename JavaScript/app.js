@@ -48,21 +48,21 @@ function guessANumber(){
 
 
 
-// function displayRating(){
+function displayRating(){
     
-//     let output = '';
+    let output = '';
     
-//     let pacMans =  prompt('Scale of 1 to 5, how many stars would you give our site?');
+    let stars =  prompt('Scale of 1 to 5, how many stars would you give our site?');
     
-//         for(let i = 0; i < stars; i++){
-//           console.log(i);
-//           output += '<img src="images/star.jpeg" height="250px" width="250px"  />';
-//         }
+        for(let i = 0; i < stars; i++){
+          console.log(i);
+          output += '<img src="images/star.jpeg" height="250px" width="250px"  />';
+        }
  
-//         return document.write(output);
-//     }
+        return document.write(output);
+    }
     
-//     displayRating();
+    displayRating();
 
     
 
